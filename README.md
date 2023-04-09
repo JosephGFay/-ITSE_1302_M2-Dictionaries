@@ -3,9 +3,9 @@
 
 * "main.py" is the entry point which handles importing the exercises to be run.
 
-* "dictionaries.py" source code for dictionary exercises.
+* "source/dictionaries.py" code for dictionary exercises.
 
-* "sub_dictionaries.py" source code for sub dictionary exercises.
+* "source/sub_dictionaries.py" code for sub dictionary exercises.
 
 * "utils.py" utility file written to abstract out formatting from exercise files.
 

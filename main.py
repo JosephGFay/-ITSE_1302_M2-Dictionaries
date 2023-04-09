@@ -1,5 +1,5 @@
-from dictionaries import dictionaries
-from sub_dictionaries import sub_dictionaries
+from source.dictionaries import dictionaries
+from source.sub_dictionaries import sub_dictionaries
 
 
 if __name__ == "__main__":
